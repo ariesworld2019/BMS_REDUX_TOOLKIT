@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BMS_REDUX_TOOLKIT/static/css/main.4b441b03.css",
+    "main.js": "/BMS_REDUX_TOOLKIT/static/js/main.3a7c039b.js",
+    "static/js/592.2745cecb.chunk.js": "/BMS_REDUX_TOOLKIT/static/js/592.2745cecb.chunk.js",
+    "index.html": "/BMS_REDUX_TOOLKIT/index.html",
+    "main.4b441b03.css.map": "/BMS_REDUX_TOOLKIT/static/css/main.4b441b03.css.map",
+    "main.3a7c039b.js.map": "/BMS_REDUX_TOOLKIT/static/js/main.3a7c039b.js.map",
+    "592.2745cecb.chunk.js.map": "/BMS_REDUX_TOOLKIT/static/js/592.2745cecb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b441b03.css",
+    "static/js/main.3a7c039b.js"
+  ]
+}
