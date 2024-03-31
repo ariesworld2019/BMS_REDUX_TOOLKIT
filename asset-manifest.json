@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/BMS_REDUX_TOOLKIT/static/css/main.4b441b03.css",
-    "main.js": "/BMS_REDUX_TOOLKIT/static/js/main.b99c61f6.js",
+    "main.js": "/BMS_REDUX_TOOLKIT/static/js/main.1d177701.js",
     "static/js/592.2745cecb.chunk.js": "/BMS_REDUX_TOOLKIT/static/js/592.2745cecb.chunk.js",
     "index.html": "/BMS_REDUX_TOOLKIT/index.html",
     "main.4b441b03.css.map": "/BMS_REDUX_TOOLKIT/static/css/main.4b441b03.css.map",
-    "main.b99c61f6.js.map": "/BMS_REDUX_TOOLKIT/static/js/main.b99c61f6.js.map",
+    "main.1d177701.js.map": "/BMS_REDUX_TOOLKIT/static/js/main.1d177701.js.map",
     "592.2745cecb.chunk.js.map": "/BMS_REDUX_TOOLKIT/static/js/592.2745cecb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b441b03.css",
-    "static/js/main.b99c61f6.js"
+    "static/js/main.1d177701.js"
   ]
 }
